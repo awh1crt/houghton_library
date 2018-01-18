@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Loan
+comment0.text=\r\n\ \ Loan\ class\r\n\ \ member\ -\ type\ int\ containing\ membership\ number\ of\ member\ taking\ out\ loan\r\n\ \ book\ -\ type\ int\ containing\ reference\ number\ of\ loaned\ book\r\n
+comment1.params=
+comment1.target=Loan()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Loan\r\n
+comment2.params=member\ book
+comment2.target=Loan(int,\ int)
+comment2.text=\r\n\ Create\ loan\ object\r\n\ member\ -\ type\ int\ containing\ membership\ number\ of\ member\ taking\ out\ loan\r\n\ \ book\ -\ type\ int\ containing\ reference\ number\ of\ loaned\ book\r\n
+comment3.params=memberRef
+comment3.target=void\ setMemberNumber(int)
+comment3.text=\r\n\ Set\ membership\ number\ of\ member\ loaning\ book.\r\n\ memberRef\ -\ type\ int\ containg\ membership\ number\ of\ member\ taking\ out\ loan\r\n
+comment4.params=bookRef
+comment4.target=void\ setBookref(int)
+comment4.text=\r\n\ Set\ refernce\ number\ of\ book\ being\ loaned\r\n\ bookRef\ -\ type\ int\ containing\ reference\ number\ of\ loaned\ book\r\n
+comment5.params=
+comment5.target=int\ getMember()
+comment5.text=\r\n\ return\ the\ membership\ number\ of\ member\ taking\ out\ loan\r\n
+comment6.params=
+comment6.target=int\ getBook()
+comment6.text=\r\n\ return\ the\ book\ reference\ number\ of\ book\ being\ loaned\r\n
+numComments=7
